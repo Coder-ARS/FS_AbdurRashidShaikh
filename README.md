@@ -1,7 +1,7 @@
 # Student Commute Optimizer - Project Documentation
 
 ## 📚 Table of Contents
-- [Project Overview](#%F0%9F%8E%AF-project-overview)
+- [🎯 Project Overview](#%F0%9F%8E%AF-project-overview)
 - [✨ Key Features](#%E2%9C%A8-key-features)
 - [🏗️ System Architecture](#%F0%9F%8F%97%EF%B8%8F-system-architecture)
 - [👥 User Flow Diagram](#%F0%9F%91%A5-user-flow-diagram)
@@ -18,6 +18,7 @@
 - [🚀 Future Enhancements](#%F0%9F%9A%80-future-enhancements)
 
 ---
+
 
 ## 🎯 Project Overview
 
