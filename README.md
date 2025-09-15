@@ -20,7 +20,7 @@
 ---
 
 
-## 🎯 Project Overview
+## Project Overview
 
 The **Student Commute Optimizer** is a full-stack carpooling and route-sharing application designed specifically for students. The platform intelligently matches students traveling along similar routes, enabling them to share rides efficiently while maintaining privacy and security through anonymous interactions.
 
@@ -39,7 +39,7 @@ A smart platform that:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### Core Features
 - **Route Matching**: Intelligent algorithm to find students with overlapping travel paths
@@ -57,7 +57,7 @@ A smart platform that:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 graph TB
@@ -113,7 +113,7 @@ graph TB
     I --> Q
 ```
 
-## 👥 User Flow Diagram
+## User Flow Diagram
 
 ```mermaid
 flowchart TD
@@ -140,7 +140,7 @@ flowchart TD
     P --> A
 ```
 
-## 🗺️ User Interface Flow
+## User Interface Flow
 
 ```mermaid
 graph LR
@@ -164,7 +164,7 @@ graph LR
     C --> C4
 ```
 
-## 🔄 Data Flow Architecture
+## Data Flow Architecture
 
 ```mermaid
 sequenceDiagram
@@ -193,7 +193,7 @@ sequenceDiagram
 
 ---
 
-## 🛠️ Technical Specifications
+## Technical Specifications
 
 ### Frontend Architecture
 ```mermaid
@@ -271,7 +271,7 @@ graph TB
 
 ---
 
-## 📊 Technology Stack Comparison
+## Technology Stack Comparison
 
 ### Frontend Technologies
 
@@ -310,7 +310,7 @@ graph TB
 
 ---
 
-## 📋 Implementation Plan
+## Implementation Plan
 
 ### Phase 1: Core Development (Weeks 1-4)
 - [ ] Project setup and environment configuration
@@ -342,7 +342,7 @@ graph TB
 
 ---
 
-## 💻 Pseudocode Examples
+## Pseudocode Examples
 
 ### Route Matching Algorithm
 ```pseudocode
@@ -525,7 +525,7 @@ END FUNCTION
 
 ---
 
-## 🔒 Security & Privacy Considerations
+## Security & Privacy Considerations
 
 ### Data Protection
 - End-to-end encryption for chat messages
@@ -547,7 +547,7 @@ END FUNCTION
 
 ---
 
-## 📈 Scalability Considerations
+## Scalability Considerations
 
 ### Horizontal Scaling
 ```mermaid
@@ -592,7 +592,7 @@ graph LR
 
 ---
 
-## 📊 Development Timeline
+## Development Timeline
 
 ```mermaid
 gantt
@@ -624,7 +624,7 @@ gantt
 
 ---
 
-## 💰 Cost Estimation
+## Cost Estimation
 
 ### Development Costs
 | Component | Time (Weeks) | Cost Range |
@@ -646,7 +646,7 @@ gantt
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 ### Phase 2 Features
 - AI-powered route prediction
