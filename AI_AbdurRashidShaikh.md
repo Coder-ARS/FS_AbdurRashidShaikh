@@ -932,10 +932,12 @@ graph LR
 gantt
     title AI-Powered Knowledge Graph to Manim Animation Development
     dateFormat  YYYY-MM-DD
+    axisFormat  %Y-%m-%d
+    
     section Phase 1: Foundation
-    Project Setup           :setup, 2025-01-15, 2025-01-28
-    Knowledge Graph Design  :kg-design, 2025-01-29, 2025-02-25
-    Basic API Development   :api, 2025-02-19, 2025-03-11
+    Project Setup           :done, setup, 2025-01-15, 2025-01-28
+    Knowledge Graph Design  :done, kg-design, 2025-01-29, 2025-02-25
+    Basic API Development   :active, api, 2025-02-19, 2025-03-11
     
     section Phase 2: AI Integration
     LLM Integration        :ai-int, 2025-03-12, 2025-04-08
