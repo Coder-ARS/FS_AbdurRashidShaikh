@@ -1,21 +1,21 @@
 # Student Commute Optimizer - Project Documentation
 
-## 📚 Table of Contents
-- [🎯 Project Overview](#%F0%9F%8E%AF-project-overview)
-- [✨ Key Features](#%E2%9C%A8-key-features)
-- [🏗️ System Architecture](#%F0%9F%8F%97%EF%B8%8F-system-architecture)
-- [👥 User Flow Diagram](#%F0%9F%91%A5-user-flow-diagram)
-- [🗺️ User Interface Flow](#%F0%9F%97%B6%EF%B8%8F-user-interface-flow)
-- [🔄 Data Flow Architecture](#%F0%9F%94%84-data-flow-architecture)
-- [🛠️ Technical Specifications](#%F0%9F%9B%80%EF%B8%8F-technical-specifications)
-- [📊 Technology Stack Comparison](#%F0%9F%93%8A-technology-stack-comparison)
-- [📋 Implementation Plan](#%F0%9F%93%8B-implementation-plan)
-- [💻 Pseudocode Examples](#%F0%9F%92%BB-pseudocode-examples)
-- [🔒 Security & Privacy Considerations](#%F0%9F%94%92-security--privacy-considerations)
-- [📈 Scalability Considerations](#%F0%9F%93%88-scalability-considerations)
-- [📊 Development Timeline](#%F0%9F%93%8A-development-timeline)
-- [💰 Cost Estimation](#%F0%9F%92%B0-cost-estimation)
-- [🚀 Future Enhancements](#%F0%9F%9A%80-future-enhancements)
+## Table of Contents
+- [🎯 Project Overview](#project-overview)
+- [✨ Key Features](#key-features)
+- [🏗️ System Architecture](#system-architecture)
+- [👥 User Flow Diagram](#user-flow-diagram)
+- [🗺️ User Interface Flow](#user-interface-flow)
+- [🔄 Data Flow Architecture](#data-flow-architecture)
+- [🛠️ Technical Specifications](#technical-specifications)
+- [📊 Technology Stack Comparison](#technology-stack-comparison)
+- [📋 Implementation Plan](#implementation-plan)
+- [💻 Pseudocode Examples](#pseudocode-examples)
+- [🔒 Security & Privacy Considerations](#security--privacy-considerations)
+- [📈 Scalability Considerations](#scalability-considerations)
+- [📊 Development Timeline](#development-timeline)
+- [💰 Cost Estimation](#cost-estimation)
+- [🚀 Future Enhancements](#future-enhancements)
 
 ---
 
