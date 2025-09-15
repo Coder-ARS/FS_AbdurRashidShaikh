@@ -626,15 +626,6 @@ gantt
 
 ## Cost Estimation
 
-### Development Costs
-| Component | Time (Weeks) | Cost Range |
-|-----------|--------------|------------|
-| Frontend Development | 8-10 | $8,000 - $15,000 |
-| Backend Development | 6-8 | $6,000 - $12,000 |
-| Database & Infrastructure | 2-3 | $2,000 - $4,000 |
-| Testing & QA | 3-4 | $3,000 - $6,000 |
-| **Total Development** | **19-25** | **$19,000 - $37,000** |
-
 ### Operational Costs (Monthly)
 | Service | Cost Range |
 |---------|------------|
